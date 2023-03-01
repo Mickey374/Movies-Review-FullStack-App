@@ -1,0 +1,7 @@
+[{
+  "_id": {
+    "$oid": "63fd0c7223269748cf2dd8b1"
+  },
+  "body": "The movie proved enough tension and friction",
+  "_class": "dev.mickey.movies.Review"
+}]
